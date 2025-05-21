@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **.NET Core 7**
+- 💬 Ask me about **.NET Core 9**
 
 - 📫 How to reach me **muhammedemin_cetin@hotmail.com**
 
